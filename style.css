@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    background-color: brown;
+}
+
+
+.nav {
+    color: blueviolet;
+    text-align: end;
+    padding: 50px;
+}
+
+.nav {
+    border: 1px solid red;
+    background-color: bisque;
+    text-align: center;
+}
+
+.titre {
+    font-family: roboto ;
+    text-align: center;
+}
